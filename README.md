@@ -1,4 +1,10 @@
-# WT
+# WebTail
+
+## TODO
+
+  * Open a pipe
+
+## Setup
 
 To start your Phoenix server:
 
